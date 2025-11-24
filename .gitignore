@@ -18,3 +18,5 @@
 .DS_Store
 =======
 >>>>>>> b92af475f9de9c22beed82367d7b8b1cc41a4d84
+data/*.tif
+data/*.img
