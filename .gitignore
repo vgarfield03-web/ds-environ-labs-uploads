@@ -1,0 +1,20 @@
+*.tif
+*.img
+*.shp
+*.shx
+*.dbf
+.DS_Store
+<<<<<<< HEAD
+*.img
+*.shp
+*.shx
+*.dbf
+.DS_Store
+*.tif
+*.img
+*.shp
+*.shx
+*.dbf
+.DS_Store
+=======
+>>>>>>> b92af475f9de9c22beed82367d7b8b1cc41a4d84
